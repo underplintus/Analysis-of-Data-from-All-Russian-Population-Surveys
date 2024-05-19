@@ -119,7 +119,7 @@ Thus, the machine learning results allow us to better understand the importance 
 
 <div style="background-color:#f7f7f7; padding:20px; border: 2px solid #008080; border-radius: 5px;">
     <center>
-        <h1 style="color:#008080;">🦄 Final Conclusion</h1>
+        <h1 style="color:#008080;">🦄 General Conclusion on the Project</h1>
     </center>
     <hr style="border-top: 2px solid #008080;">
     <p style="font-size:16px;">
