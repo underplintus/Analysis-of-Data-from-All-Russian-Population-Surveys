@@ -6,6 +6,8 @@
 The goal of this research is to conduct a comprehensive analysis of data obtained from nationwide surveys to gain a deeper understanding of the structure and dynamics of civil society in Russia. Key areas of analysis include demographic analysis, respondent clustering, examination of public awareness about non-profit organizations, and analysis of predicting missing responses about the role of religion in life.
 
 
+<h1>☝ General Conclusion on the Project</h1> 
+
 <div style="border:solid Chocolate 2px; padding: 40px">
 
 <h2 style="color:#ff6347;">1️⃣ Demographic Analysis:</h2> 
@@ -119,7 +121,7 @@ Thus, the machine learning results allow us to better understand the importance 
 
 <div style="background-color:#f7f7f7; padding:20px; border: 2px solid #008080; border-radius: 5px;">
     <center>
-        <h1 style="color:#008080;">🦄 General Conclusion on the Project</h1>
+        <h1 style="color:#008080;">🦄 Final Conclusion</h1>
     </center>
     <hr style="border-top: 2px solid #008080;">
     <p style="font-size:16px;">
